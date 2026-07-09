@@ -1,0 +1,6 @@
+{
+  "name": "CricBase",
+  "description": "Score fast, play more. A fast, offline-first street cricket scoring app with real-time stats and tournament awards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
