@@ -1,7 +1,5 @@
 <div align="center">
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FD9,100:1C8A4B&height=220&section=header&text=Legacy%20XI&fontSize=62&fontColor=ffffff&desc=The%20Ultimate%20Offline%20Cricket%20Scoring%20%26%20Analytics%20App&descAlignY=62&animation=fadeIn" width="100%"/>](https://capsule-render.vercel.app/api?type=waving&color=0:1E6FD9,100:1C8A4B&height=220&section=header&text=Legacy%20XI&fontSize=62&fontColor=ffffff&desc=The%20Ultimate%20Offline%20Cricket%20Scoring%20%26%20Analytics%20App&descAlignY=62&animation=fadeIn)
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=2FA84F&center=true&vCenter=true&width=650&lines=Ball-by-ball+scoring+in+seconds;Automatic+career+%26+team+statistics;Built+for+street%2C+box+%26+turf+cricket;100%25+Offline+%E2%80%A2+Zero+Ads+%E2%80%A2+Just+Cricket)](https://git.io/typing-svg)
