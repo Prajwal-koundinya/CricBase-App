@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FD9,100:1C8A4B&height=220&section=header&text=Legacy%20XI&fontSize=62&fontColor=ffffff&desc=The%20Ultimate%20Offline%20Cricket%20Scoring%20%26%20Analytics%20App&descAlignY=62&animation=fadeIn" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FD9,100:1C8A4B&height=220&section=header&text=Legacy%20XI&fontSize=62&fontColor=ffffff&desc=The%20Ultimate%20Offline%20Cricket%20Scoring%20%26%20Analytics%20App&descAlignY=62&animation=fadeIn" width="100%"/>](https://capsule-render.vercel.app/api?type=waving&color=0:1E6FD9,100:1C8A4B&height=220&section=header&text=Legacy%20XI&fontSize=62&fontColor=ffffff&desc=The%20Ultimate%20Offline%20Cricket%20Scoring%20%26%20Analytics%20App&descAlignY=62&animation=fadeIn)
 
 <br/>
 
