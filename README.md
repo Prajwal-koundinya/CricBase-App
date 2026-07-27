@@ -309,6 +309,10 @@ No account creation. No cloud dependency. No advertisements. **Just cricket.**
       <b>Statistics</b>
     </td>
     <td width="220"></td>
+    <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric35.jpeg" width="200"/><br/>
+      <b>Scorecard</b>
+    </td>
   </tr>
 </table>
 
