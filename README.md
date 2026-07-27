@@ -292,12 +292,12 @@ No account creation. No cloud dependency. No advertisements. **Just cricket.**
     </td>
     <td align="center" width="220">
       <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric14.jpeg" width="200"/><br/>
-      <b>Select Batsman</b>
+      <b>Scoring</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric15.jpeg" width="200"/><br/>
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric14.jpeg" width="200"/><br/>
       <b>No Typing</b>
     </td>
     <td align="center" width="220">
@@ -308,7 +308,6 @@ No account creation. No cloud dependency. No advertisements. **Just cricket.**
       <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric34.jpeg" width="200"/><br/>
       <b>Statistics</b>
     </td>
-    <td width="220"></td>
     <td align="center" width="220">
       <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric35.jpeg" width="200"/><br/>
       <b>Scorecard</b>
