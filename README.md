@@ -292,7 +292,7 @@ No account creation. No cloud dependency. No advertisements. **Just cricket.**
     </td>
     <td align="center" width="220">
       <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric14.jpeg" width="200"/><br/>
-      <b>Scoring</b>
+      <b>Select Batsman</b>
     </td>
   </tr>
   <tr>
