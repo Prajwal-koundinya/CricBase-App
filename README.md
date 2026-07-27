@@ -274,14 +274,43 @@ No account creation. No cloud dependency. No advertisements. **Just cricket.**
 
 ## 📸 Screenshots
 
-> UI is under active development — real device screenshots will replace this section as screens are finalized. Once available, drop them into `app/assets/screenshots/` and reference them below.
-
 <div align="center">
 
-![Home](https://img.shields.io/badge/Home_Screen-Coming_Soon-1B1D1B?style=for-the-badge)
-![Live Scoring](https://img.shields.io/badge/Live_Scoring-Coming_Soon-1E6FD9?style=for-the-badge)
-![Scorecard](https://img.shields.io/badge/Scorecard-Coming_Soon-12301F?style=for-the-badge)
-![Career Stats](https://img.shields.io/badge/Career_Stats-Coming_Soon-7A3FC4?style=for-the-badge)
+<table cellpadding="12" cellspacing="0">
+  <tr>
+    <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric4.jpeg" width="200"/><br/>
+      <b>Welcome Page</b>
+    </td>
+    <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric8.jpeg" width="200"/><br/>
+      <b>Squad Book</b>
+    </td>
+    <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric9.jpeg" width="200"/><br/>
+      <b>Team Sheet</b>
+    </td>
+    <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric14.jpeg" width="200"/><br/>
+      <b>Scoring</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric14.jpeg" width="200"/><br/>
+      <b>No Typing</b>
+    </td>
+    <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric30.jpeg" width="200"/><br/>
+      <b>Proper Analysis</b>
+    </td>
+    <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/Prajwal-koundinya/CricBase-App/main/cric/cric34.jpeg" width="200"/><br/>
+      <b>Statistics</b>
+    </td>
+    <td width="220"></td>
+  </tr>
+</table>
 
 </div>
 
