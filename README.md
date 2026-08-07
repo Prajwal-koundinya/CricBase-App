@@ -1,4 +1,4 @@
-# **🚀 A NEW FEATURE UPDATE COMING SOON 🚀**
+# **🏏 CRICBASE - Cricket score tracking 🏏**
 
 <br/>
 
