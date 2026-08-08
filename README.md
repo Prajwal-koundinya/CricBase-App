@@ -413,13 +413,22 @@ Contributions, suggestions, and feature requests are always welcome.
 
 ---
 
-## 👨‍💻 Author
+| | |
+|---|---|
+| 🌐 **GitHub** | [@Prajwal-koundinya](https://github.com/Prajwal-koundinya) |
+| 💼 **LinkedIn** | [Connect with me](https://www.linkedin.com/in/prajwal-kowndinya-7506b4268/) |
+| 📧 **Email** | [prajwalkowndinya@gmail.com](mailto:prajwalkowndinya@gmail.com) |
+| 🌟 **Portfolio** | [Portfolio Website](https://prajwal-koundinya-portfolio.vercel.app/) |
 
-**Prajwal Koundinya**
-- 🌐 GitHub: [@Prajwal-koundinya](https://github.com/Prajwal-koundinya)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/prajwal-kowndinya-7506b4268/)
-- 📧 Email: prajwalkowndinya@gmail.com
-- 🌟 Portfolio: [Portfolio Website](https://mellow-faloodeh-7f6f0f.netlify.app/)
+> 💡 Feel free to reach out if you'd like to collaborate, discuss this project, or just talk about AI and Deep Learning!
+
+---
+
+## 🙏 Credits
+- Model architecture inspired by [Adrian Rosebrock's COVID-19 Face Mask Detector](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+- Training data set from [prajnasb/observations](https://github.com/prajnasb/observations/tree/master/experiements/data)
+- Face detector (Caffe model) from [Shiva486/facial_recognition](https://github.com/Shiva486/facial_recognition)
+- Built with [Streamlit](https://www.streamlit.io/)
 
 ---
 
